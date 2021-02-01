@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Daster Tech Logo](https://avatars.githubusercontent.com/u/78383726?s=400&u=3312a2ff6f25bbea357aad3c69d659216df894e0&v=4)
+
 <!--
 **DASTERTech/DASTERTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
